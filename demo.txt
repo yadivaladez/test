@@ -1,3 +1,6 @@
 This is a demo file that we will use to learn git and github.
 
 Creating our first change in a file.
+
+
+this is a change after we add our directory to a repo on github.
